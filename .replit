@@ -1,0 +1,2 @@
+run = "javac DispensaryWebsite.java && java DispensaryWebsite"
+
